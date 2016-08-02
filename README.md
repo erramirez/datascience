@@ -4,4 +4,4 @@ This is a repository for my different data science/visualization projects. Withi
 
 Mostly R and ggplot. 
 
-Questions? ]Get in touch](http://www.twitter.com/eramirez).
+Questions? [Get in touch](http://www.twitter.com/eramirez).
