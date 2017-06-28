@@ -1,4 +1,4 @@
-#18 Millions Steps
+# 18 Millions Steps
 
 This repository contains the code, data, and vsisualizations that accompany the series of posts I'm writing about my Fitbit data. 
 
